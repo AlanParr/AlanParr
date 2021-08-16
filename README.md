@@ -1,6 +1,5 @@
 - 👋 Hi, I’m @AlanParr
 - 👀 I’m interested in all things .Net
-- 🌱 I’m currently learning ASP.Net Health Checks and Terraform.
 
 <!---
 AlanParr/AlanParr is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
